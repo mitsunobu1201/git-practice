@@ -1,1 +1,1 @@
-test
+DMM WEB CAMP 初めてのプッシュ！
